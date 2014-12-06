@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WTC SHOP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_female">Female</string>
+    <string name="title_activity_syara">Syara</string>
+    <string name="title_activity_tristan">Tristan</string>
+
+</resources>
